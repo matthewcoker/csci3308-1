@@ -6,3 +6,4 @@ TA: Pratima Sherkane
 Kylie Kim
 Lab3
 Partner: Dennis Nguyen
+Partner: Matthew Coker
