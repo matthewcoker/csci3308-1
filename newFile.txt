@@ -1,2 +1,4 @@
 
-this is a new file for the purpose or lab3
+this is a new file for the purpose of lab3
+
+
